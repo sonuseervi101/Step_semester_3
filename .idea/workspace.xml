@@ -100,6 +100,7 @@
     "Application.FileExtensionValidator.executor": "Run",
     "Application.FirstNonRepeatingChar.executor": "Run",
     "Application.InventoryBalancer.executor": "Run",
+    "Application.InventoryRecordParser.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
     "Application.PhoneNumberMasker.executor": "Run",
     "Application.ReverseCustomerName.executor": "Run",
