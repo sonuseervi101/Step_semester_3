@@ -4,6 +4,22 @@ Daily progress log for STEP Semester 3 coursework.
 
 ## Date: 28-08-2026
 
+
+**Today's Work:**
+- Completed Session 2 (branch: feature/session_2) in package `strings`
+- Class problems: Vowel & Consonant Counter, CSV Student Record Parser, File Extension Validator, Masked Phone Number Formatter, Bank Transaction Reference Validator
+- Assignment problems: ATM PIN Length Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Normalizer & Validator, Stop-Word-Filtered Word Frequency Report
+
+**Next Session Plan:**
+- Complete Session 3 problems
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 28-08-2026
+
 **Today's Work:**
 - Set up the repository structure (main, develop, feature branches)
 - Completed Session 1 (branch: feature/session_1) in package `basics`
