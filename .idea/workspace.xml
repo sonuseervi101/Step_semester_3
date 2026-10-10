@@ -86,6 +86,7 @@
   "keyToString": {
     "Application.CourseCreditManagement.executor": "Run",
     "Application.HostelMessWallet.executor": "Run",
+    "Application.LibraryIdCardManagement.executor": "Run",
     "Application.PlacementRecordManagement.executor": "Run",
     "git-widget-placeholder": "feature/session__6",
     "node.js.selected.package.tslint": "(autodetect)"
