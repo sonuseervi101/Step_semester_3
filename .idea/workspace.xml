@@ -86,6 +86,7 @@
   "keyToString": {
     "Application.ClassAttendanceTracker.executor": "Run",
     "Application.DigitSumAndReverse.executor": "Run",
+    "Application.DutyRosterRotation.executor": "Run",
     "Application.EvenOddCounter.executor": "Run",
     "Application.ExamScoreBandCounter.executor": "Run",
     "Application.FactorialCalculator.executor": "Run",
