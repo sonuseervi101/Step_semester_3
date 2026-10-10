@@ -89,6 +89,7 @@
     "Application.FactorialCalculator.executor": "Run",
     "Application.InPlaceArrayReversal.executor": "Run",
     "Application.PrimeNumberChecker.executor": "Run",
+    "Application.StudentGradeAssignment.executor": "Run",
     "Application.VowelConsonantCounter.executor": "Run",
     "Application.WordReverserPalindrome.executor": "Run",
     "git-widget-placeholder": "feature/session__10",
