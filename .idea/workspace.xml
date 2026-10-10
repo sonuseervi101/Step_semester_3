@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.NameTagDemo.executor": "Run",
     "Application.PiggyBankDemo.executor": "Run",
     "Application.ScorecardDemo.executor": "Run",
     "git-widget-placeholder": "feature/session__7",
