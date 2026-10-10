@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TwoSum.executor": "Run",
     "git-widget-placeholder": "feature/session__4",
     "node.js.selected.package.tslint": "(autodetect)"
   }
