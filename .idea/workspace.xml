@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClassAttendanceTracker.executor": "Run",
     "Application.DigitSumAndReverse.executor": "Run",
     "Application.EvenOddCounter.executor": "Run",
     "Application.ExamScoreBandCounter.executor": "Run",
