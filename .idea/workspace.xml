@@ -101,6 +101,7 @@
     "Application.PalindromeChecker.executor": "Run",
     "Application.ReverseCustomerName.executor": "Run",
     "Application.RockPaperScissors.executor": "Run",
+    "Application.StudentRecordParser.executor": "Run",
     "Application.TrafficSignalStreak.executor": "Run",
     "Application.TypingAccuracyChecker.executor": "Run",
     "Application.VowelConsonantCounter.executor": "Run",
