@@ -88,6 +88,7 @@
     "Application.DeliveryFeeCalculator.executor": "Run",
     "Application.ExamQuestionGrader.executor": "Run",
     "Application.LibraryDueDateCalculator.executor": "Run",
+    "Application.ParkingChargeCalculator.executor": "Run",
     "Application.PaymentFeeCalculator.executor": "Run",
     "Application.TransportFareCalculator.executor": "Run",
     "git-widget-placeholder": "feature/session__8",
