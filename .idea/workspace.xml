@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CourseCreditManagement.executor": "Run",
     "Application.HostelMessWallet.executor": "Run",
     "Application.PlacementRecordManagement.executor": "Run",
     "git-widget-placeholder": "feature/session__6",
