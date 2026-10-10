@@ -85,6 +85,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DeliveryFeeCalculator.executor": "Run",
+    "Application.ExamQuestionGrader.executor": "Run",
     "Application.LibraryDueDateCalculator.executor": "Run",
     "Application.PaymentFeeCalculator.executor": "Run",
     "git-widget-placeholder": "feature/session__8",
