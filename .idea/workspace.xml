@@ -86,6 +86,7 @@
   "keyToString": {
     "Application.CollegeInfoManagement.executor": "Run",
     "Application.CourseCreditManagement.executor": "Run",
+    "Application.EmployeeProfileCreation.executor": "Run",
     "Application.HostelMessWallet.executor": "Run",
     "Application.LibraryIdCardManagement.executor": "Run",
     "Application.LibraryInventoryManagement.executor": "Run",
