@@ -90,6 +90,7 @@
     "Application.MergeSortedArrays.executor": "Run",
     "Application.ProductExceptSelf.executor": "Run",
     "Application.RotateArray.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "git-widget-placeholder": "feature/session__4",
     "node.js.selected.package.tslint": "(autodetect)"
