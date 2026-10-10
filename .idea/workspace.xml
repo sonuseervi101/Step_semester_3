@@ -86,6 +86,7 @@
   "keyToString": {
     "Application.DuplicateTeamFinder.executor": "Run",
     "Application.ScoreCurveBooster.executor": "Run",
+    "Application.SeatingGridOptimizer.executor": "Run",
     "Application.TopThreePodium.executor": "Run",
     "git-widget-placeholder": "feature/session__5",
     "node.js.selected.package.tslint": "(autodetect)"
