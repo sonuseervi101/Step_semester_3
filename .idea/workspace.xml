@@ -86,6 +86,7 @@
   "keyToString": {
     "Application.DigitSumAndReverse.executor": "Run",
     "Application.EvenOddCounter.executor": "Run",
+    "Application.FactorialCalculator.executor": "Run",
     "Application.InPlaceArrayReversal.executor": "Run",
     "Application.PrimeNumberChecker.executor": "Run",
     "Application.VowelConsonantCounter.executor": "Run",
