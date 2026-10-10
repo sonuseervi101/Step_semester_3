@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4788a477-8e3e-4f23-b848-32133e11dc02" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000003568" />
+      <entry key="MS500" value="1.003262212932021" />
+      <entry key="S2" value="1.3075849842057394" />
+      <entry key="S5" value="1.9069188908013088" />
+      <entry key="S10" value="2.3366483985942708" />
+      <entry key="S30" value="2.7456320157681993" />
+      <entry key="S60" value="2.8680934145059354" />
+      <entry key="M2" value="2.932818591947994" />
+      <entry key="M5" value="2.9728263826089245" />
+      <entry key="M10" value="2.9863624801377813" />
+      <entry key="M15" value="2.9908970109192694" />
+      <entry key="M30" value="2.9954428408323523" />
+      <entry key="H1" value="2.99772000237339" />
+      <entry key="H2" value="2.998859646439965" />
+      <entry key="H4" value="2.999429734503778" />
+      <entry key="D1" value="2.999904943426428" />
+      <entry key="W1" value="2.99998642018764" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880618907015" />
+      <entry key="MS500" value="0.988079286941878" />
+      <entry key="S2" value="1.3026095555203971" />
+      <entry key="S5" value="1.9040132008462871" />
+      <entry key="S10" value="2.3348674722504" />
+      <entry key="S30" value="2.744934291170144" />
+      <entry key="S60" value="2.867728969004371" />
+      <entry key="M2" value="2.9326322509986418" />
+      <entry key="M5" value="2.972750828007456" />
+      <entry key="M10" value="2.986324530585465" />
+      <entry key="M15" value="2.9908716727486717" />
+      <entry key="M30" value="2.9954301524645834" />
+      <entry key="H1" value="2.9977136533598787" />
+      <entry key="H2" value="2.9988564707246748" />
+      <entry key="H4" value="2.999428146343858" />
+      <entry key="D1" value="2.999904678691114" />
+      <entry key="W1" value="2.9999863823672808" />
+    </decayedShown>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "feature/session__6",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Step_semester_3$BmiCalculator.ic" NAME="BmiCalculator Coverage Results" MODIFIED="1791644046644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>basics.class_problems.*</FILTER>
+    </SUITE>
+  </component>
+</project>
