@@ -2,6 +2,22 @@
 
 Daily progress log for STEP Semester 3 coursework.
 
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Session 7 (branch: feature/session_7) in package `encapsulation`
+- Class problems: Piggy Bank, Quiz Scorecard, Nickname Tag, Locker Code, Attendance Sheet
+- Assignment problems: Health Bar, Playlist (defensive copy), Password Checker, Traffic Light, Shopping Cart
+
+**Next Session Plan:**
+- Complete Session 8 problems
+
+**Issues Faced:**
+- A class named Character would hide Java's built-in java.lang.Character for the whole package; solved by making it a static nested class
+
+---
+
+
 ## Date: 12-09-2026
 
 **Today's Work:**
