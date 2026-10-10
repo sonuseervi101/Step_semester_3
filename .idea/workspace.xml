@@ -96,6 +96,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.BmiCalculator.executor": "Run",
     "Application.DuplicateSeatChecker.executor": "Run",
+    "Application.FileExtensionValidator.executor": "Run",
     "Application.FirstNonRepeatingChar.executor": "Run",
     "Application.InventoryBalancer.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
