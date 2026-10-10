@@ -2,6 +2,22 @@
 
 Daily progress log for STEP Semester 3 coursework.
 
+
+## Date: 26-09-2026
+
+**Today's Work:**
+- Completed Session 8 (branch: feature/session_8) in package `polymorphism`
+- Class problems: Payment Fee Calculation, Library Due Date Calculator, Delivery Fee Calculator, Examination Question Grader, Public Transport Fare Calculator, plus quiz and concept answers
+- Assignment problems: Canteen Billing Counter, Campus Parking Charge, Hostel Electricity Bill, Festival Bonus Calculator, Streaming Plan Renewal Reminder
+
+**Next Session Plan:**
+- Complete Session 9 problems
+
+**Issues Faced:**
+- The Delivery Fee sample output in the PDF did not match its own business rules (EXPRESS and INTERNATIONAL); implemented the stated rules
+
+---
+
 ## Date: 19-09-2026
 
 **Today's Work:**
