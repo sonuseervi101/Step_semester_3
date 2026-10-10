@@ -91,6 +91,7 @@
     "Application.LeapYearDetector.executor": "Run",
     "Application.PrimeNumberChecker.executor": "Run",
     "Application.StudentGradeAssignment.executor": "Run",
+    "Application.StudentResultCardGenerator.executor": "Run",
     "Application.VowelConsonantCounter.executor": "Run",
     "Application.WordReverserPalindrome.executor": "Run",
     "git-widget-placeholder": "feature/session__10",
