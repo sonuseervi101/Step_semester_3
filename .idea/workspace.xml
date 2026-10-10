@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Candidate.executor": "Run",
     "Application.DuplicateTeamFinder.executor": "Run",
     "Application.ScoreCurveBooster.executor": "Run",
     "Application.SeatingGridOptimizer.executor": "Run",
