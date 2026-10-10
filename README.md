@@ -2,6 +2,22 @@
 
 Daily progress log for STEP Semester 3 coursework.
 
+## Date: 05-09-2026
+
+**Today's Work:**
+- Completed Session 5 (branch: feature/session_5) in package `methods`
+- Class problems: Hackathon Score Curve Booster, Duplicate Team Name Finder, Top-3 Podium Finder, Hackathon Seating Grid Optimizer, Placement Drive Shortlisting & Ranking Engine
+- Assignment problems: Fantasy Team Score Multiplier, Duplicate Player Pick Checker, Top Performer Tracker, Match Day Grid Analyzer, Fantasy League Auto-Draft Ranking Engine
+
+**Next Session Plan:**
+- Complete Session 6 problems (OOP: classes, constructors, encapsulation, static members)
+
+**Issues Faced:**
+- None
+
+---
+
+
 ## Date: 31-08-2026
 
 **Today's Work:**
