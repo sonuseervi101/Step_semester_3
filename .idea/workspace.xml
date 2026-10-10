@@ -110,6 +110,7 @@
     "Application.TypingAccuracyChecker.executor": "Run",
     "Application.VowelConsonantCounter.executor": "Run",
     "Application.WordLengthProfiler.executor": "Run",
+    "Application.WordReversalEncoder.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
