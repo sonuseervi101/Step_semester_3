@@ -22,23 +22,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1339716828170365" />
-      <entry key="MS500" value="1.6689637781994024" />
-      <entry key="S2" value="1.9191791372414477" />
-      <entry key="S5" value="2.3859216005275403" />
-      <entry key="S10" value="3.2841364571917215" />
-      <entry key="S30" value="4.746161594045809" />
-      <entry key="S60" value="5.315722155363762" />
-      <entry key="M2" value="5.689051670988839" />
-      <entry key="M5" value="6.423943722522467" />
-      <entry key="M10" value="7.234815010532583" />
-      <entry key="M15" value="7.676269349009887" />
-      <entry key="M30" value="8.25058080373788" />
-      <entry key="H1" value="8.600280259029425" />
-      <entry key="H2" value="8.793448589217334" />
-      <entry key="H4" value="8.89499315912413" />
-      <entry key="D1" value="8.982253314784906" />
-      <entry key="W1" value="8.997458678133926" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.000000000000092" />
+      <entry key="M2" value="1.0000007477822268" />
+      <entry key="M5" value="1.0113578422332088" />
+      <entry key="M10" value="1.304210698347805" />
+      <entry key="M15" value="1.9282142678761391" />
+      <entry key="M30" value="3.8690197597517924" />
+      <entry key="H1" value="6.071507973145065" />
+      <entry key="H2" value="7.752607132881005" />
+      <entry key="H4" value="8.794742011486488" />
+      <entry key="D1" value="9.786744265008004" />
+      <entry key="W1" value="9.969216980870664" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -60,23 +60,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1038695328651689" />
-      <entry key="MS500" value="1.6606575820205933" />
-      <entry key="S2" value="1.9168309113830755" />
-      <entry key="S5" value="2.384702444191331" />
-      <entry key="S10" value="3.2832486548139856" />
-      <entry key="S30" value="4.745714097460048" />
-      <entry key="S60" value="5.315468624194539" />
-      <entry key="M2" value="5.688907983596911" />
-      <entry key="M5" value="6.423846149050681" />
-      <entry key="M10" value="7.234739137385935" />
-      <entry key="M15" value="7.676208622213779" />
-      <entry key="M30" value="8.250543765838454" />
-      <entry key="H1" value="8.600259694240705" />
-      <entry key="H2" value="8.793437740112823" />
-      <entry key="H4" value="8.894987585413288" />
-      <entry key="D1" value="8.982252364453094" />
-      <entry key="W1" value="8.997458541839796" />
+      <entry key="MS100" value="0.09605469883050075" />
+      <entry key="MS500" value="0.6258982293269971" />
+      <entry key="S2" value="0.8894589935378976" />
+      <entry key="S5" value="0.9542240809666985" />
+      <entry key="S10" value="0.976843938900528" />
+      <entry key="S30" value="0.9922209563593165" />
+      <entry key="S60" value="0.9961028844248467" />
+      <entry key="M2" value="0.9980502878287394" />
+      <entry key="M5" value="1.0105770287540004" />
+      <entry key="M10" value="1.3038171113340942" />
+      <entry key="M15" value="1.9279466433983128" />
+      <entry key="M30" value="3.8688767311925814" />
+      <entry key="H1" value="6.071430769572946" />
+      <entry key="H2" value="7.752566262828206" />
+      <entry key="H4" value="8.794720857634085" />
+      <entry key="D1" value="9.78674062374749" />
+      <entry key="W1" value="9.969216457630496" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -103,6 +103,7 @@
     "Application.RockPaperScissors.executor": "Run",
     "Application.TrafficSignalStreak.executor": "Run",
     "Application.TypingAccuracyChecker.executor": "Run",
+    "Application.VowelConsonantCounter.executor": "Run",
     "Application.WordLengthProfiler.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
