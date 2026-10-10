@@ -86,6 +86,7 @@
   "keyToString": {
     "Application.BestTimeToBuySellStock.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
+    "Application.MergeSortedArrays.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "git-widget-placeholder": "feature/session__4",
     "node.js.selected.package.tslint": "(autodetect)"
