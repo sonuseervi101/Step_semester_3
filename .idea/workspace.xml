@@ -92,6 +92,7 @@
     "Application.PiggyBankDemo.executor": "Run",
     "Application.PlaylistDemo.executor": "Run",
     "Application.ScorecardDemo.executor": "Run",
+    "Application.TrafficLightDemo.executor": "Run",
     "git-widget-placeholder": "feature/session__7",
     "node.js.selected.package.tslint": "(autodetect)"
   }
