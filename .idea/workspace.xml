@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BusiestBusRow.executor": "Run",
     "Application.ClassAttendanceTracker.executor": "Run",
     "Application.DigitSumAndReverse.executor": "Run",
     "Application.DutyRosterRotation.executor": "Run",
