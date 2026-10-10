@@ -88,6 +88,7 @@
     "Application.DuplicatePickChecker.executor": "Run",
     "Application.DuplicateTeamFinder.executor": "Run",
     "Application.FantasyScoreMultiplier.executor": "Run",
+    "Application.MatchDayGridAnalyzer.executor": "Run",
     "Application.ScoreCurveBooster.executor": "Run",
     "Application.SeatingGridOptimizer.executor": "Run",
     "Application.TopPerformerTracker.executor": "Run",
