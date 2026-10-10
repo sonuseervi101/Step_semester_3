@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4788a477-8e3e-4f23-b848-32133e11dc02" name="Changes" comment="" />
+    <list default="true" id="4788a477-8e3e-4f23-b848-32133e11dc02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,10 +89,12 @@
     "Application.CanteenBillingCounter.executor": "Run",
     "Application.DeliveryFeeCalculator.executor": "Run",
     "Application.ExamQuestionGrader.executor": "Run",
+    "Application.FestivalBonusCalculator.executor": "Run",
     "Application.HostelElectricityBill.executor": "Run",
     "Application.LibraryDueDateCalculator.executor": "Run",
     "Application.ParkingChargeCalculator.executor": "Run",
     "Application.PaymentFeeCalculator.executor": "Run",
+    "Application.StreamingPlanRenewal.executor": "Run",
     "Application.TransportFareCalculator.executor": "Run",
     "git-widget-placeholder": "feature/session__8",
     "node.js.selected.package.tslint": "(autodetect)"
