@@ -92,6 +92,7 @@
     "Application.InPlaceArrayReversal.executor": "Run",
     "Application.LeapYearDetector.executor": "Run",
     "Application.PrimeNumberChecker.executor": "Run",
+    "Application.SecondBestScore.executor": "Run",
     "Application.StudentGradeAssignment.executor": "Run",
     "Application.StudentResultCardGenerator.executor": "Run",
     "Application.VowelConsonantCounter.executor": "Run",
