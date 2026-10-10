@@ -85,6 +85,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Candidate.executor": "Run",
+    "Application.DuplicatePickChecker.executor": "Run",
     "Application.DuplicateTeamFinder.executor": "Run",
     "Application.FantasyScoreMultiplier.executor": "Run",
     "Application.ScoreCurveBooster.executor": "Run",
