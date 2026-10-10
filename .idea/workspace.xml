@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ScoreCurveBooster.executor": "Run",
     "git-widget-placeholder": "feature/session__5",
     "node.js.selected.package.tslint": "(autodetect)"
   }
