@@ -86,6 +86,7 @@
   "keyToString": {
     "Application.Candidate.executor": "Run",
     "Application.DuplicateTeamFinder.executor": "Run",
+    "Application.FantasyScoreMultiplier.executor": "Run",
     "Application.ScoreCurveBooster.executor": "Run",
     "Application.SeatingGridOptimizer.executor": "Run",
     "Application.TopThreePodium.executor": "Run",
