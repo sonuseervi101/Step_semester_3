@@ -87,6 +87,7 @@
     "Application.ElectricityConnectionBilling.executor": "Run",
     "Application.GardenPlotAreaReport.executor": "Run",
     "Application.LibraryLateFineCounter.executor": "Run",
+    "Application.TravelBookingCommonFee.executor": "Run",
     "Application.WeeklyStaffPay.executor": "Run",
     "git-widget-placeholder": "feature/session__9",
     "node.js.selected.package.tslint": "(autodetect)"
