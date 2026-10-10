@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4788a477-8e3e-4f23-b848-32133e11dc02" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1339716828170365" />
+      <entry key="MS500" value="1.6689637781994024" />
+      <entry key="S2" value="1.9191791372414477" />
+      <entry key="S5" value="2.3859216005275403" />
+      <entry key="S10" value="3.2841364571917215" />
+      <entry key="S30" value="4.746161594045809" />
+      <entry key="S60" value="5.315722155363762" />
+      <entry key="M2" value="5.689051670988839" />
+      <entry key="M5" value="6.423943722522467" />
+      <entry key="M10" value="7.234815010532583" />
+      <entry key="M15" value="7.676269349009887" />
+      <entry key="M30" value="8.25058080373788" />
+      <entry key="H1" value="8.600280259029425" />
+      <entry key="H2" value="8.793448589217334" />
+      <entry key="H4" value="8.89499315912413" />
+      <entry key="D1" value="8.982253314784906" />
+      <entry key="W1" value="8.997458678133926" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1038695328651689" />
+      <entry key="MS500" value="1.6606575820205933" />
+      <entry key="S2" value="1.9168309113830755" />
+      <entry key="S5" value="2.384702444191331" />
+      <entry key="S10" value="3.2832486548139856" />
+      <entry key="S30" value="4.745714097460048" />
+      <entry key="S60" value="5.315468624194539" />
+      <entry key="M2" value="5.688907983596911" />
+      <entry key="M5" value="6.423846149050681" />
+      <entry key="M10" value="7.234739137385935" />
+      <entry key="M15" value="7.676208622213779" />
+      <entry key="M30" value="8.250543765838454" />
+      <entry key="H1" value="8.600259694240705" />
+      <entry key="H2" value="8.793437740112823" />
+      <entry key="H4" value="8.894987585413288" />
+      <entry key="D1" value="8.982252364453094" />
+      <entry key="W1" value="8.997458541839796" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KVU6UFEwNfbEf4fBP53Tp44tFN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.BmiCalculator.executor": "Run",
+    "Application.DuplicateSeatChecker.executor": "Run",
+    "Application.FirstNonRepeatingChar.executor": "Run",
+    "Application.InventoryBalancer.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.ReverseCustomerName.executor": "Run",
+    "Application.RockPaperScissors.executor": "Run",
+    "Application.TrafficSignalStreak.executor": "Run",
+    "Application.TypingAccuracyChecker.executor": "Run",
+    "Application.WordLengthProfiler.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/session__2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4788a477-8e3e-4f23-b848-32133e11dc02" name="Changes" comment="" />
+      <created>1791642058507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791642058507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Step_semester_3$BmiCalculator.ic" NAME="BmiCalculator Coverage Results" MODIFIED="1791644046644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>basics.class_problems.*</FILTER>
+    </SUITE>
+  </component>
+</project>
