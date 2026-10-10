@@ -2,6 +2,22 @@
 
 Daily progress log for STEP Semester 3 coursework.
 
+## Date: 03-10-2026
+
+**Today's Work:**
+- Completed Session 9 (branch: feature/session_9) in package `abstraction`
+- Class problems: Garden Plot Area Report, Weekly Staff Pay, Library Late Fine Counter, Electricity Connection Billing, Travel Booking with a Common Fee, plus quiz and concept answers
+- Assignment problems: Movie Ticket Counter, Parcel Shipping Desk, College Fee Counter, City Cab Fare Meter, Home Appliance Energy Report (using interfaces for optional abilities)
+
+**Next Session Plan:**
+- Complete Session 10 problems
+
+**Issues Faced:**
+- None
+
+---
+
+
 
 ## Date: 26-09-2026
 
