@@ -89,6 +89,7 @@
     "Application.HostelMessWallet.executor": "Run",
     "Application.LibraryIdCardManagement.executor": "Run",
     "Application.LibraryInventoryManagement.executor": "Run",
+    "Application.PayrollSalaryManagement.executor": "Run",
     "Application.PlacementRecordManagement.executor": "Run",
     "git-widget-placeholder": "feature/session__6",
     "node.js.selected.package.tslint": "(autodetect)"
