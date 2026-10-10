@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PiggyBankDemo.executor": "Run",
     "git-widget-placeholder": "feature/session__7",
     "node.js.selected.package.tslint": "(autodetect)"
   }
