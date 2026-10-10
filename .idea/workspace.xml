@@ -88,6 +88,7 @@
     "Application.EvenOddCounter.executor": "Run",
     "Application.FactorialCalculator.executor": "Run",
     "Application.InPlaceArrayReversal.executor": "Run",
+    "Application.LeapYearDetector.executor": "Run",
     "Application.PrimeNumberChecker.executor": "Run",
     "Application.StudentGradeAssignment.executor": "Run",
     "Application.VowelConsonantCounter.executor": "Run",
