@@ -85,6 +85,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.GardenPlotAreaReport.executor": "Run",
+    "Application.WeeklyStaffPay.executor": "Run",
     "git-widget-placeholder": "feature/session__9",
     "node.js.selected.package.tslint": "(autodetect)"
   }
