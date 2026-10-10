@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CollegeFeeCounter.executor": "Run",
     "Application.ElectricityConnectionBilling.executor": "Run",
     "Application.GardenPlotAreaReport.executor": "Run",
     "Application.LibraryLateFineCounter.executor": "Run",
