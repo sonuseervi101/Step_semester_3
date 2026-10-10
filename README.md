@@ -2,6 +2,22 @@
 
 Daily progress log for STEP Semester 3 coursework.
 
+## Date: 31-08-2026
+
+**Today's Work:**
+- Completed Session 4 (branch: feature/session_4) in package `arrays`
+- Class problems: Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, Rotate Array
+- Assignment problems: Product of Array Except Self, Maximum Subarray (Kadane's), 3Sum, Subarray Sum Equals K, Find Minimum in Rotated Sorted Array
+
+**Next Session Plan:**
+- Complete Session 5 problems
+
+**Issues Faced:**
+- None
+
+---
+
+
 ## Date: 28-08-2026
 
 
