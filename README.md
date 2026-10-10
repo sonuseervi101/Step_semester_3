@@ -2,6 +2,21 @@
 
 Daily progress log for STEP Semester 3 coursework.
 
+## Date: 12-09-2026
+
+**Today's Work:**
+- Completed Session 6 (branch: feature/session_6) in package `oop`
+- Class problems: Student Placement Record, Hostel Mess Wallet, Course Credit Management, Library ID Card, Student and College Information
+- Assignment problems: Library Inventory, Payroll Salary, Employee Profile Creation, Exam Hall Ticket Reference, Employee and Company Information
+
+**Next Session Plan:**
+- Complete Session 7 problems
+
+**Issues Faced:**
+- Two assignment problems both required a class named Employee in the same package; solved by making each a static nested class
+
+---
+
 ## Date: 05-09-2026
 
 **Today's Work:**
