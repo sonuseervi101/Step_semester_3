@@ -87,6 +87,7 @@
     "Application.CanteenBillingCounter.executor": "Run",
     "Application.DeliveryFeeCalculator.executor": "Run",
     "Application.ExamQuestionGrader.executor": "Run",
+    "Application.HostelElectricityBill.executor": "Run",
     "Application.LibraryDueDateCalculator.executor": "Run",
     "Application.ParkingChargeCalculator.executor": "Run",
     "Application.PaymentFeeCalculator.executor": "Run",
