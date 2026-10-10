@@ -24,21 +24,21 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000256629087876" />
-      <entry key="S5" value="1.0281705869495825" />
-      <entry key="S10" value="1.290686984227166" />
-      <entry key="S30" value="2.3778926657419985" />
-      <entry key="S60" value="3.0331405824188566" />
-      <entry key="M2" value="3.4696994438113125" />
-      <entry key="M5" value="3.775430392187212" />
-      <entry key="M10" value="3.885531290243692" />
-      <entry key="M15" value="3.9231937958914296" />
-      <entry key="M30" value="3.9613478935724187" />
-      <entry key="H1" value="3.9806112913892013" />
-      <entry key="H2" value="3.9902899310201776" />
-      <entry key="H4" value="3.9951410304702986" />
-      <entry key="D1" value="3.9991896246701413" />
-      <entry key="W1" value="3.999884218690914" />
+      <entry key="S2" value="1.0000001230320072" />
+      <entry key="S5" value="1.001770385979622" />
+      <entry key="S10" value="1.0535577499627606" />
+      <entry key="S30" value="1.823239205787384" />
+      <entry key="S60" value="2.7846762270492746" />
+      <entry key="M2" value="3.661492862818552" />
+      <entry key="M5" value="4.395469606217015" />
+      <entry key="M10" value="4.684826980610641" />
+      <entry key="M15" value="4.786903354450651" />
+      <entry key="M30" value="4.891931740180717" />
+      <entry key="H1" value="4.94558029136615" />
+      <entry key="H2" value="4.972693042524532" />
+      <entry key="H4" value="4.986322156333336" />
+      <entry key="D1" value="4.997716967778048" />
+      <entry key="W1" value="4.999673769380669" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -60,23 +60,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.576694453712731E-6" />
-      <entry key="MS500" value="0.0946010495605987" />
-      <entry key="S2" value="0.5546181346243693" />
-      <entry key="S5" value="0.8180919380715674" />
-      <entry key="S10" value="1.1794142464974982" />
-      <entry key="S30" value="2.339268564719861" />
-      <entry key="S60" value="3.0136190270615004" />
-      <entry key="M2" value="3.4598841474714264" />
-      <entry key="M5" value="3.771490859443885" />
-      <entry key="M10" value="3.8835592579303913" />
-      <entry key="M15" value="3.9218786017922653" />
-      <entry key="M30" value="3.960690042979934" />
-      <entry key="H1" value="3.9802823025941207" />
-      <entry key="H2" value="3.990125420733697" />
-      <entry key="H4" value="3.995058771353039" />
-      <entry key="D1" value="3.9991759142651655" />
-      <entry key="W1" value="3.9998822600481083" />
+      <entry key="MS100" value="1.2637511277360555E-4" />
+      <entry key="MS500" value="0.16608572676206396" />
+      <entry key="S2" value="0.6383856619008313" />
+      <entry key="S5" value="0.837075614757361" />
+      <entry key="S10" value="0.9630886428821165" />
+      <entry key="S30" value="1.7803896788284668" />
+      <entry key="S60" value="2.758340820915377" />
+      <entry key="M2" value="3.646511564144647" />
+      <entry key="M5" value="4.388938936080979" />
+      <entry key="M10" value="4.68146188805001" />
+      <entry key="M15" value="4.784636985178463" />
+      <entry key="M30" value="4.890786860778081" />
+      <entry key="H1" value="4.9450048884450375" />
+      <entry key="H2" value="4.972404595265405" />
+      <entry key="H4" value="4.986177745626611" />
+      <entry key="D1" value="4.997692873290571" />
+      <entry key="W1" value="4.999670326672707" />
     </decayedShown>
   </component>
   <component name="ProjectLevelVcsManager">
@@ -85,6 +85,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.VowelConsonantCounter.executor": "Run",
+    "Application.WordReverserPalindrome.executor": "Run",
     "git-widget-placeholder": "feature/session__10",
     "node.js.selected.package.tslint": "(autodetect)"
   }
